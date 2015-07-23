@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fragments</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawerIsOpen">"Drawer is open.</string>
+    <string name="drawerIsClosed">Drawer is closed. </string>
+    <string name="splash">This app was to practice with Fragments and the Navigation Drawer. The first part of assignment was to make a click counter. The second part was the rework the app eliminating actvities and implementing Fragments.</string>
+
+    <string-array
+        name="pictureTitles">
+        <item>Home</item>
+        <item>Counter</item>
+        <item>Good Hair</item>
+        <item>Twerk</item>
+        <item>Lulz</item>
+    </string-array>
+
+</resources>
